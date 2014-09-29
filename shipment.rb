@@ -1,3 +1,3 @@
 class Shipment
-  attr_accessor :destination, :what_got_shipped, :how_many, :money
+  attr_accessor :destination, :item, :crates, :payment
 end
